@@ -2,9 +2,6 @@
 
 - 🌱 I’m currently learning computer science in SPBETU 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YudjinSud)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudjinSud)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YudjinSud&show_icons=true&count_private=true)  
